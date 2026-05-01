@@ -15,9 +15,8 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 ## Skills
 
-#### Artificial Intelligence
-<p align="center">
-  
+**Artificial Intelligence**
+
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![GitHub Copilot](https://img.shields.io/badge/github%20copilot-0WE000?style=flat&logo=githubcopilot&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Generative AI & LLMs -->
@@ -38,10 +37,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-</p>
-
-#### Languages
-<p align="center">
+**Languages**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=323330)](https://github.com/gourimahapatra-ai)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gourimahapatra-ai)
@@ -52,15 +48,13 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-</p>
+**Cloud Platforms**
 
-#### Cloud Platforms
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![GCP](https://img.shields.io/badge/google-F68410?style=flat&logo=google&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 **Big Data**  
-<p align="center">
 
 <!-- Core Storage -->
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://github.com/gourimahapatra-ai)
@@ -86,16 +80,16 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-</p>
-
 **Databases**  
+
 [![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=flat&logo=mysql&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=flat&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-#### Tools
+**Tools**
+
 [![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat&logo=githubactions&logoColor=367cfe)](https://github.com/gourimahapatra-ai)
 [![Sentry](https://img.shields.io/badge/Sentry-black?style=flat&logo=Sentry&logoColor=#362D59)](https://github.com/gourimahapatra-ai)
 [![Docker](https://img.shields.io/badge/Docker-0091E2?style=flat&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
@@ -103,9 +97,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 ---
 
-### Certifications
-
-<p align="center">
+**Certifications**
 
 ![Microsoft AI-900](https://img.shields.io/badge/Microsoft%20AI--900%20(Azure%20AI%20Fundamentals)-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI%20for%20Leaders-EA4335?style=flat&logo=google&logoColor=white)
@@ -116,7 +108,6 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![ITIL Certified](https://img.shields.io/badge/ITIL%20Certified-6DB33F?style=flat&logo=itil&logoColor=white)
 ![Certified Scrum Master](https://img.shields.io/badge/Certified%20Scrum%20Master%20(CSM)-00A1E0?style=flat&logo=scrumalliance&logoColor=white)
 
-</p>
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/gouri-mahapatra-a1619111/)  
