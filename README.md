@@ -36,6 +36,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-grey?style=flat&logo=kubernetes)
 ![MLflow](https://img.shields.io/badge/MLflow-grey?style=flat&logo=mlflow)
 
+
 ![Languages](https://img.shields.io/badge/Languages-blue?flat)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
@@ -54,7 +55,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![GCP](https://img.shields.io/badge/GCP-grey?style=flat&logo=google)
 
 
-![Languages](https://img.shields.io/badge/Big%20Data-blue?flat)
+![BigData](https://img.shields.io/badge/Big%20Data-blue?flat)
 <!-- Core Storage -->
 ![Hadoop](https://img.shields.io/badge/Hadoop-grey?style=flat&logo=apachehadoop)
 ![HDFS](https://img.shields.io/badge/HDFS-grey?style=flat&logo=apache)
@@ -67,16 +68,14 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![NiFi](https://img.shields.io/badge/NiFi-grey?style=flat&logo=apache)
 ![Sqoop](https://img.shields.io/badge/Sqoop-grey?style=flat&logo=apache)
 ![Hive](https://img.shields.io/badge/Hive-grey?style=flat&logo=apachehive)
-![BigQuery](https://img.shields.io/badge/BigQuery-grey?style=flat&logo=googlebigquery)
-
-<!-- Cloud -->
+![BigQuery](https://img.shields.io/badge/BigQuery-grey?style=flat&logo=googlebigquery)<!-- Cloud -->
 ![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-grey?style=flat&logo=amazonaws)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-grey?style=flat&logo=microsoftazure)
 ![Databricks](https://img.shields.io/badge/Databricks-grey?style=flat&logo=databricks)
+
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-grey?style=flat&logo=databricks)
 ![Iceberg](https://img.shields.io/badge/Iceberg-grey?style=flat&logo=apache)
 ![Hudi](https://img.shields.io/badge/Hudi-grey?style=flat&logo=apache)
-
 ![Airflow](https://img.shields.io/badge/Airflow-grey?style=flat&logo=apacheairflow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
 ![Cassandra](https://img.shields.io/badge/Cassandra-grey?style=flat&logo=apachecassandra)
