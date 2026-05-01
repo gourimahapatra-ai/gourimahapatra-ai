@@ -33,11 +33,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Vector Databases -->
-[![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=flat-square&logo=weaviate&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=meta&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat-square&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)
-
-<!-- MLOps & Deployment -->
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat-square&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- MLOps & Deployment -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://github.com/gourimahapatra-ai)
@@ -52,7 +48,6 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)](https://github.com/gourimahapatra-ai)
-
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/gourimahapatra-ai)
@@ -97,6 +92,8 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=flat-square&logo=mysql&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 #### Tools
 [![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-square&logo=githubactions&logoColor=367cfe)](https://github.com/gourimahapatra-ai)
