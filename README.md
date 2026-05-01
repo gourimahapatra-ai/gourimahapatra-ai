@@ -14,9 +14,19 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 - Continuous upskilling in Data & AI  
 
 ## Skills
+
+#### Artificial Intelligence
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/gourimahapatra-ai)
+
+
+#### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/gourimahapatra-ai)
+[![Python](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![Java](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![SQL](https://img.shields.io/badge/SQL-244320?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 **Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-grey?style=flat&logo=amazonaws)
