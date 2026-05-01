@@ -25,15 +25,15 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/gourimahapatra-ai)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat-square&logo=llama&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Data Handling & Processing -->
+
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://github.com/gourimahapatra-ai)
-
-<!-- Cloud AI Platforms -->
+[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Cloud AI Platforms -->
 [![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Vector Databases -->
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat-square&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- MLOps & Deployment -->
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://github.com/gourimahapatra-ai)
