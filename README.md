@@ -1,21 +1,22 @@
-## Hi there 👋
+# Hi, there!
 
-# Hi, I'm Gouri Mahapatra 👋
+Experienced Data Professional with ~18 years in Big Data, cloud platforms, and data architecture. I focus on building scalable, efficient, and reliable data solutions while continuously learning and adapting to new technologies.<br>
 
-## 👨‍💻 About Me
-Experienced Data Professional with ~18 years in Big Data, cloud platforms, and data architecture. I focus on building scalable, efficient, and reliable data solutions while continuously learning and adapting to new technologies.
+## About Me
+- Location: Japan, Tokyo
+- Experience: 18 years 🧑🏻‍💻
+- Education: Master in Computer Science
 
----
-
-## 🚀 Current Focus
+## Current Focus
 - Generative AI and LLM applications  
 - Databricks and modern data platforms  
 - Cloud-native data architecture  
 - Continuous upskilling in Data & AI  
 
----
-
-## 🛠️ Tech Stack
+## Skills
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 **Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-grey?style=flat&logo=amazonaws)
