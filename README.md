@@ -38,12 +38,16 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![PySpark](https://img.shields.io/badge/PySpark-grey?style=flat&logo=python)
 ![Hadoop](https://img.shields.io/badge/Hadoop-grey?style=flat&logo=apachehadoop)
 
-**Database**  
-![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=postgresql)
+**Databases**  
+[![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
-![API](https://img.shields.io/badge/REST%20API-grey?style=flat&logo=fastapi)
+#### Tools
+[![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://github.com/gourimahapatra-ai)
+[![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)](https://github.com/gourimahapatra-ai)
+[![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 ---
 
