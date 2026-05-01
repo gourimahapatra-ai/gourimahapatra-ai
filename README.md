@@ -95,7 +95,6 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![Docker](https://img.shields.io/badge/Docker-0091E2?style=flat&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://github.com/gourimahapatra-ai)
 
----
 
 **Certifications**
 
@@ -109,17 +108,16 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![Certified Scrum Master](https://img.shields.io/badge/Certified%20Scrum%20Master%20(CSM)-00A1E0?style=flat&logo=scrumalliance&logoColor=white)
 
 
-## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/gouri-mahapatra-a1619111/)  
-- Email: gouriprofile@hotmail.com  
 ## Connect with me 
 
-<a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
+<a href="https://www.linkedin.com/in/gouri-mahapatra-a1619111/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
 <span>
-<a href="https://twitter.com/surajbhan2boaz" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span> 
+<a href="https://twitter.com/gourimahapatra" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span> 
 <span>
-<a href="https://www.quora.com/profile/Suraj-Bhan-Singh-24" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938093.png" width="5%" height="5%"></a></span> 
+<a href="https://www.quora.com/profile/gourimahapatra" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938093.png" width="5%" height="5%"></a></span> 
 </span>
----
+<a href="mailto:your.email@example.com" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="5%" height="5%">
+</a>
 
 _This repository represents my professional profile and continuous learning journey in Data and AI._
