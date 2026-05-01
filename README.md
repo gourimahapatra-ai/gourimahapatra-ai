@@ -28,9 +28,10 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
 [![SQL](https://img.shields.io/badge/SQL-244320?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-grey?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-grey?style=flat&logo=microsoftazure)
+#### Cloud Platforms
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/gourimahapatra-ai)
+[![GCP](https://img.shields.io/badge/google-F68410?style=for-the-badge&logo=google&logoColor=white)](https://github.com/gourimahapatra-ai)
 
 **Big Data**  
 ![Spark](https://img.shields.io/badge/Spark-grey?style=flat&logo=apachespark)
