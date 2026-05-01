@@ -15,88 +15,90 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 ## Skills
 
-**Artificial Intelligence**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?flat)
 
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![GitHub Copilot](https://img.shields.io/badge/github%20copilot-0WE000?style=flat&logo=githubcopilot&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Generative AI & LLMs -->
-[![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/gourimahapatra-ai)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat&logo=llama&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Data Handling & Processing -->
+![Claude](https://img.shields.io/badge/Claude-grey?style=flat&logo=claude)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-grey?style=flat&logo=openai)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-grey?style=flat&logo=githubcopilot)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-grey?style=flat&logo=openai)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-grey?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-grey?style=flat&logo=chainlink)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-grey?style=flat&logo=llama)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-grey?style=flat&logo=numpy)
+![Apache Spark](https://img.shields.io/badge/Spark-grey?style=flat&logo=apachespark)
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Cloud AI Platforms -->
-[![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Vector Databases -->
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- MLOps & Deployment -->
+![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-grey?style=flat&logo=googlecloud)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-grey?style=flat&logo=amazonaws)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-grey?style=flat&logo=microsoftazure)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-grey?style=flat&logo=databricks)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-grey?style=flat&logo=kubernetes)
+![MLflow](https://img.shields.io/badge/MLflow-grey?style=flat&logo=mlflow)
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://github.com/gourimahapatra-ai)
+![Languages](https://img.shields.io/badge/Languages-blue?flat)
 
-**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-grey?style=flat&logo=java)
+![Scala](https://img.shields.io/badge/Scala-grey?style=flat&logo=scala)
+![PHP](https://img.shields.io/badge/PHP-grey?style=flat&logo=php)
+![CSharp](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=postgresql)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=323330)](https://github.com/gourimahapatra-ai)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/gourimahapatra-ai)
+![Cloud Platforms](https://img.shields.io/badge/Cloud%20Platforms-blue?flat)
 
-**Cloud Platforms**
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-grey?style=flat&logo=amazonaws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-grey?style=flat&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/GCP-grey?style=flat&logo=google)
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![GCP](https://img.shields.io/badge/google-F68410?style=flat&logo=google&logoColor=white)](https://github.com/gourimahapatra-ai)
 
-**Big Data**  
-
+![Languages](https://img.shields.io/badge/Big%20Data-blue?flat)
 <!-- Core Storage -->
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://github.com/gourimahapatra-ai)
-[![HDFS](https://img.shields.io/badge/HDFS-FFCC00?style=flat&logo=apache&logoColor=black)](https://github.com/gourimahapatra-ai)
-[![HBase](https://img.shields.io/badge/HBase-D22128?style=flat&logo=apachehbase&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Processing -->
-[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Storm](https://img.shields.io/badge/Storm-225593?style=flat&logo=apache&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Ingestion -->
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![NiFi](https://img.shields.io/badge/NiFi-017CEE?style=flat&logo=apache&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Sqoop](https://img.shields.io/badge/Sqoop-5A8F29?style=flat&logo=apache&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Warehousing -->
-[![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)](https://github.com/gourimahapatra-ai)
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)](https://github.com/gourimahapatra-ai)
+![Hadoop](https://img.shields.io/badge/Hadoop-grey?style=flat&logo=apachehadoop)
+![HDFS](https://img.shields.io/badge/HDFS-grey?style=flat&logo=apache)
+![HBase](https://img.shields.io/badge/HBase-grey?style=flat&logo=apachehbase)
+![Spark](https://img.shields.io/badge/Spark-grey?style=flat&logo=apachespark)
+![Flink](https://img.shields.io/badge/Flink-grey?style=flat&logo=apacheflink)
+![Storm](https://img.shields.io/badge/Storm-grey?style=flat&logo=apache)
+![Kafka](https://img.shields.io/badge/Kafka-grey?style=flat&logo=apachekafka)
+
+![NiFi](https://img.shields.io/badge/NiFi-grey?style=flat&logo=apache)
+![Sqoop](https://img.shields.io/badge/Sqoop-grey?style=flat&logo=apache)
+![Hive](https://img.shields.io/badge/Hive-grey?style=flat&logo=apachehive)
+![BigQuery](https://img.shields.io/badge/BigQuery-grey?style=flat&logo=googlebigquery)
 
 <!-- Cloud -->
-[![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Lakehouse -->
-[![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A84FF?style=flat&logo=databricks&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Iceberg](https://img.shields.io/badge/Iceberg-6CB4EE?style=flat&logo=apache&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Hudi](https://img.shields.io/badge/Hudi-FF6F00?style=flat&logo=apache&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- Orchestration -->
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://github.com/gourimahapatra-ai)<!-- NoSQL -->
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)](https://github.com/gourimahapatra-ai)
+![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-grey?style=flat&logo=amazonaws)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-grey?style=flat&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-grey?style=flat&logo=databricks)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-grey?style=flat&logo=databricks)
+![Iceberg](https://img.shields.io/badge/Iceberg-grey?style=flat&logo=apache)
+![Hudi](https://img.shields.io/badge/Hudi-grey?style=flat&logo=apache)
 
-**Databases**  
-
-[![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=flat&logo=mysql&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=flat&logo=mongodb&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)](https://github.com/gourimahapatra-ai)
-
-**Tools**
-
-[![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat&logo=githubactions&logoColor=367cfe)](https://github.com/gourimahapatra-ai)
-[![Sentry](https://img.shields.io/badge/Sentry-black?style=flat&logo=Sentry&logoColor=#362D59)](https://github.com/gourimahapatra-ai)
-[![Docker](https://img.shields.io/badge/Docker-0091E2?style=flat&logo=docker&logoColor=white)](https://github.com/gourimahapatra-ai)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://github.com/gourimahapatra-ai)
+![Airflow](https://img.shields.io/badge/Airflow-grey?style=flat&logo=apacheairflow)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
+![Cassandra](https://img.shields.io/badge/Cassandra-grey?style=flat&logo=apachecassandra)
 
 
-**Certifications**
+![Databases](https://img.shields.io/badge/Databases-blue?flat)
+
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?style=flat&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-grey?style=flat&logo=oracle)
+![IBM DB2](https://img.shields.io/badge/IBM%20DB2-grey?style=flat&logo=ibm)
+
+![Tools](https://img.shields.io/badge/Tools-blue?flat)
+
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-grey?style=flat&logo=githubactions)
+![Sentry](https://img.shields.io/badge/Sentry-grey?style=flat&logo=sentry)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/Figma-grey?style=flat&logo=figma)
+
+
+![Certifications](https://img.shields.io/badge/Certifications-blue?flat)
 
 ![Microsoft AI-900](https://img.shields.io/badge/Microsoft%20AI--900%20(Azure%20AI%20Fundamentals)-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI%20for%20Leaders-EA4335?style=flat&logo=google&logoColor=white)
