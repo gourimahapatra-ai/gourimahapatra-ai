@@ -15,7 +15,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 ## Skills
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?flat)
+🤖 Artificial Intelligence 
 
 <p align="Justify">
 
@@ -39,7 +39,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 </p>
 
-![Languages](https://img.shields.io/badge/Languages-blue?flat)
+## 💻 Languages 
 
 <p align="Justify">
 
@@ -58,7 +58,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 </p>
 
-![BigData](https://img.shields.io/badge/Big%20Data-blue?flat)
+## 🗄️ Big Data
 <p align="Justify">
   
   <!-- Core Storage -->
@@ -85,7 +85,7 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 
 </p>
 
-![Databases](https://img.shields.io/badge/Databases-blue?flat)
+## 🛢️ Databases 
 <p align="Justify">
   
   ![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql)
