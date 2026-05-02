@@ -100,12 +100,17 @@ Experienced Data Professional with ~18 years in Big Data, cloud platforms, and d
 ![Certifications](https://img.shields.io/badge/Certifications-blue?flat)
 
 ![Microsoft AI-900](https://img.shields.io/badge/Microsoft%20AI--900%20(Azure%20AI%20Fundamentals)-0078D4?style=flat&logo=microsoft&logoColor=white)
+
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI%20for%20Leaders-EA4335?style=flat&logo=google&logoColor=white)
+
 ![Databricks Associate Data Engineer](https://img.shields.io/badge/Databricks%20Associate%20Data%20Engineer-FF3621?style=flat&logo=databricks&logoColor=white)
+
 ![Databricks Generative AI](https://img.shields.io/badge/Databricks%20Generative%20AI%20Fundamentals-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ![Oracle Developer Certification](https://img.shields.io/badge/Oracle%20Developer%20Certification-F80000?style=flat&logo=oracle&logoColor=white)
+
 ![ITIL Certified](https://img.shields.io/badge/ITIL%20Certified-6DB33F?style=flat&logo=itil&logoColor=white)
+
 ![Certified Scrum Master](https://img.shields.io/badge/Certified%20Scrum%20Master%20(CSM)-00A1E0?style=flat&logo=scrumalliance&logoColor=white)
 
 
